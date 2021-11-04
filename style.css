@@ -1,0 +1,67 @@
+#teslaimg
+{
+    height:250px;
+    width:500px; 
+}
+#links
+{
+    margin-top:0px;
+color: black;
+}
+.m
+{
+    top:0px;
+    z-index:9;
+    position: sticky;
+}
+#description
+{
+    padding-top: 100px;
+   background: linear-gradient(to right, #009933 50%, #66ff33 100%);
+    width:100%;
+    height:500px;
+    z-index: 9;
+}
+#name
+{
+    color:white;
+}
+#bio
+{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    z-index:9;
+    background: linear-gradient(to right, #990000 46%, #ff0000 100%);
+    color:white;
+}
+#descr
+{
+    font-size: 25px;
+}
+#descr1
+{
+    font-size: 25px;
+}
+iframe
+{
+    width:100%;
+}
+#fa fa-phone
+{
+    text-align: center;
+}
+#contact
+{
+     background: linear-gradient(to right, #990000 46%, #ff0000 100%);
+    height: 70%;
+    color: white;
+}
+html:hover
+{
+    scroll-behavior: smooth;
+}
+#name{
+   font-family: 'Lobster', cursive;
+    font-size: 60px;
+    color:black;
+}
